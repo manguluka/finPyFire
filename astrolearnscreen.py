@@ -18,7 +18,7 @@ import ephem
 from datetime import date, timedelta, datetime 
 from getsyms import get_symbols
 
-quandl.ApiConfig.api_key = 'iExJMAAAhsyQz3vTmgaq'
+quandl.ApiConfig.api_key = 'your api key'
 quandl.ApiConfig.api_version = '2015-04-09'
 
 def get_3_18():
